@@ -1,6 +1,6 @@
 package Solutions;
 
-public class Solution {
+public class 비밀지도 {
     public static void main(String[] args) {
         int n = 5;
         int[] arr1 = {9, 20, 28, 18, 11};
