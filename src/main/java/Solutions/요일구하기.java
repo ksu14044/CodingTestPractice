@@ -1,8 +1,6 @@
 package Solutions;
 
-import java.util.Date;
-
-public class Solution {
+public class 요일구하기 {
     public static void main(String[] args) {
         int[] month = {0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
         int a = 5;
