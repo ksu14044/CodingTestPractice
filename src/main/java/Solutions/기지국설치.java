@@ -1,10 +1,6 @@
 package Solutions;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
-public class Solution {
+public class 기지국설치 {
     // 효율성 검사 통과
     public static void main(String[] args) {
         int n = 11;
