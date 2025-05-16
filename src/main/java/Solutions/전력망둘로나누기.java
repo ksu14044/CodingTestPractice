@@ -2,7 +2,7 @@ package Solutions;
 
 import java.util.*;
 
-public class Solution {
+public class 전력망둘로나누기 {
     public static void main(String[] args) {
         int n = 9;
         int[][] wires = {{1,3},{2,3},{3,4},{4,5},{4,6},{4,7},{7,8},{7,9}};
