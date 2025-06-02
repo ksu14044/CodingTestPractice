@@ -1,11 +1,10 @@
 package Solutions;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class Solution {
+public class 무인도여행 {
     static int[] dx = {-1, 0, 1, 0};
     static int[] dy = {0, -1, 0, 1};
     public static void main(String[] args) {
