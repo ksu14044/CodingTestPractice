@@ -3,6 +3,7 @@ package Solutions;
 public class N퀸 {
     static int N;
     static boolean[] width;
+    // 대각선방향 확인 배열 = diagonal1,2
     static boolean[] diagonal1;
     static boolean[] diagonal2;
 
