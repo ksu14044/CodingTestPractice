@@ -1,9 +1,8 @@
 package Solutions;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
-public class Solution {
+public class 가사검색 {
     static Map<Integer, List<String>> forwardMap = new HashMap<>();
     static Map<Integer, List<String>> backwardMap = new HashMap<>();
     public static void main(String[] args) {
