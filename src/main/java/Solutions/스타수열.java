@@ -3,7 +3,7 @@ package Solutions;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+public class 스타수열 {
     public static void main(String[] args) {
         int[] a = {0,3,3,0,7,2,0,2,2,0};
         System.out.println(solution((a)));
